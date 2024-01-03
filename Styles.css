@@ -29,7 +29,7 @@ header {
 .photo {
   display: flex;
   justify-content: center;
-  max-width: 250px;
+  width: 100%;
   margin: 0 auto 20px;
   flex-direction: column;
   background-color: #fff;
